@@ -5,8 +5,8 @@
 [**Wenrui Li<sup>*</sup>**](https://liwrui.github.io/),
 **Yidan Lu<sup>*</sup>**,
 **Yeyu Chai**,
-**Rui Zhao**,(https://ruizhao26.github.io/index.html)
-**Hengyu Man**,
+[**Rui Zhao**](https://ruizhao26.github.io/index.html)
+[**Hengyu Man**,](https://homepage.hit.edu.cn/manhengyu)
 [**Xiaopeng Fan**](https://scholar.google.cz/citations?hl=zh-CN&user=4LsZhDgAAAAJ&view_op=list_works&sortby=pubdate)
 
 </div>
@@ -23,7 +23,7 @@ With the daily influx of 3D data on the internet, text-3D retrieval has gained i
 Uploading...
 
 Our T3DR-HIT v2 dataset is an expanded version of the original T3DR-HIT benchmark introduced by [RMARN](https://github.com/liwrui/RMARN). 
-* **Download**: [**Click here to download T3DR-HIT v2**](https---PASTE_YOUR_DOWNLOAD_LINK_HERE---)
+* **Download**: [**Click here to download T3DR-HIT v2**](https://pan.baidu.com/s/1Moa2hHpj9g2y76h9Gb2qMw?pwd=bstd)
 * **Setup**: After downloading, please unzip and place the contents (`Elephant` and `S3DIS` folders) into the `./data/` directory.
 
 ## Requirements
