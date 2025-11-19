@@ -11,7 +11,7 @@
 
 </div>
 
-[![Paper](http://img.shields.io/badge/paper-arxiv.XXXXXXX-B31B1B.svg)](https://arxiv.org/abs/XXXXXXX)
+[![Paper](http://img.shields.io/badge/paper-arxiv.2511.11045-B31B1B.svg)](https://arxiv.org/abs/2511.11045)
 
 ![Model Architecture](fig1.png)
 
